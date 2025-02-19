@@ -1,5 +1,5 @@
 
-# Django Prayer Times Application
+# Django Prayer Times Application | Jadwal Sholat
 
 This Django application provides a modern and efficient way to display prayer times for cities in Indonesia. It incorporates several enhancements for performance, user experience, and code structure.
 
@@ -60,7 +60,10 @@ python manage.py runserver
 
 1. Navigate to `http://127.0.0.1:8000/` in your browser to access the application.
 2. Use the search bar to type the name of an Indonesian city.  Results will appear in real-time.
-3. Select a city to view its prayer times.
+3. Select a city to view its prayer times by typing.
+
+![jadwal-sholat](https://github.com/user-attachments/assets/dbb9b724-4306-480b-935f-8c2f8cf584ad)
+
 
 ## Technologies Used
 
