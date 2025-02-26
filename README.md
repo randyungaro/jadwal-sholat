@@ -72,10 +72,7 @@ python manage.py runserver
 - **Tailwind CSS:** For styling the user interface.
 - **API:** https://api.myquran.com/
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-Apache License
+MIT License
